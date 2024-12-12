@@ -7,17 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1krFZPNOe_TOg1oeoCVXlt_q79kBx1zWT
 """
 
-# /// script
-# requires-python = ">=3.12"
-# dependencies = [
-#     "chardet",
-#     "matplotlib",
-#     "pandas",
-#     "python-dotenv",
-#     "requests",
-#     "seaborn",
-# ]
-
 
 ## This script does generic analysis which includes summarization, cluster analysis, Correlation analysis,
 ## outlier analysis along with Visulization using python of any csv files and results of this analysis is shared with LLM Model
